@@ -1,13 +1,13 @@
 ---
-agent: kerstmenu-2025.kok
-description: Kook planning en bereiding coordinatie
+agent: kerstmenu-2025.souschef
+description: Praktische recept uitwerking en handige aanpak
 ---
 
-# Kok Prompt
+# Sous-chef Prompt
 
 ## Rolbeschrijving
 
-**VERPLICHT**: Lees `governance/rolbeschrijvingen/kok.md` voor volledige context en verantwoordelijkheden.
+**VERPLICHT**: Lees `governance/rolbeschrijvingen/souschef.md` voor volledige context en verantwoordelijkheden.
 
 ## Contract
 
@@ -22,9 +22,9 @@ description: Kook planning en bereiding coordinatie
 
 **Voorbeelden**:
 ```
-@github /kok [voorbeeld opdracht 1]
-@github /kok [voorbeeld opdracht 2]
-@github /kok [voorbeeld opdracht 3] --check-only
+@github /souschef [voorbeeld opdracht 1]
+@github /souschef [voorbeeld opdracht 2]
+@github /souschef [voorbeeld opdracht 3] --check-only
 ```
 
 ### Output (Wat komt eruit)
@@ -96,5 +96,5 @@ Output: [TODO: verwachte output]
 
 ---
 
-**Documentatie**: Zie [governance/rolbeschrijvingen/kok.md](governance/rolbeschrijvingen/kok.md)  
-**Runner**: `scripts/kok.py`
+**Documentatie**: Zie [governance/rolbeschrijvingen/souschef.md](governance/rolbeschrijvingen/souschef.md)  
+**Runner**: `scripts/souschef.py`
