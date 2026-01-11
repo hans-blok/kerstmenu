@@ -73,6 +73,39 @@
             line-height: 1.8;
         }
 
+        .agent-links {
+            padding: 25px 40px 10px 40px;
+            background: #ffffff;
+            border-bottom: 1px solid #e1e4f2;
+        }
+
+        .agent-links h2 {
+            color: #2c3e50;
+            margin-bottom: 10px;
+            font-size: 1.6em;
+        }
+
+        .agent-links p {
+            font-size: 1em;
+            color: #555;
+            margin-bottom: 10px;
+        }
+
+        .agent-links ul {
+            list-style: none;
+            margin-left: 0;
+            margin-bottom: 10px;
+        }
+
+        .agent-links li + li {
+            margin-top: 4px;
+        }
+
+        .agent-links a {
+            color: #667eea;
+            text-decoration: underline;
+        }
+
         .menu-grid {
             display: grid;
             grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
@@ -192,101 +225,122 @@
     <div class="container">
         <header>
             <h1>🎄 Kerstmenu 2025</h1>
-            <p class="subtitle">Vegetarisch & Vegan · 4 Gangen</p>
-            <p class="date">Voor 6 personen</p>
+            <p class="subtitle">Vegetarisch · 3 gangen</p>
+            <p class="date">Gebaseerd op de officiële menukaart</p>
         </header>
 
         <section class="intro">
             <h2>Welkom aan onze feestelijke tafel</h2>
             <p>
-                Dit jaar presenteren we een prachtig samengesteld kerstmenu met de beste gerechten uit verschillende wereldkeukens. 
-                Van Libanese mezze tot verfijnde baklava, elk gerecht is met zorg uitgewerkt voor een onvergetelijke kerstmaaltijd. 
-                Alle gerechten zijn vegetarisch en de meeste zelfs vegan - zonder in te leveren op smaak of feestelijkheid.
+                Dit is de landingspagina voor het officiële Kerstmenu 2025. 
+                Alle gangen op deze pagina zijn rechtstreeks overgenomen uit de menukaart van de menukaart-schrijver en uitgewerkt door de andere agents.
             </p>
         </section>
 
-        <div class="menu-grid">
-            <a href="voorgerecht-libanees.html" class="menu-card">
-                <div class="menu-card-header">
-                    <div class="course">Gang 1</div>
-                    <h3>Libanese Mezze</h3>
-                    <div class="badge">🌱 Vegan</div>
-                </div>
-                <div class="menu-card-body">
-                    <p class="description">
-                        Een feestelijke selectie van drie klassieke mezze gerechten: romige hummus, 
-                        frisse tabouleh salade en warme spinazie fatayer driehoekjes.
-                    </p>
-                    <div class="menu-card-meta">
-                        <span>⏱️ 35 minuten</span>
-                        <span>⭐⭐ Gemiddeld</span>
-                    </div>
-                </div>
-                <div class="menu-card-footer">
-                    Bekijk recept →
-                </div>
-            </a>
+        <section class="agent-links">
+            <h2>Officieel Kerstmenu 2025 – achter de schermen</h2>
+            <p>
+                Het officiële kerstmenu 2025 is volledig uitgewerkt door onze inhoudelijke agents. Je kunt die bestanden hier bekijken:
+            </p>
+            <ul>
+                <li>
+                    Menukaart: 
+                    <a href="resultaten/menukaart-schrijver/menu-kerstmenu-2025.md">Kerstmenu 2025 (menukaart-tekst)</a>
+                </li>
+                <li>
+                    Wijnarrangement: 
+                    <a href="wijnarrangement.html">Wijnen bij elke gang</a>
+                </li>
+            </ul>
+            <p>
+                Wil je de keuken-instructies zien? Bekijk dan de sous-chef recepten:
+            </p>
+            <ul>
+                <li>
+                    Voorgerecht: 
+                    <a href="voorgerecht.html">Wasabi-spitskool · 3 personen</a>
+                </li>
+                <li>
+                    Hoofdgerecht: 
+                    <a href="hoofdgerecht.html">Mahshi met saffraanrijst en geroosterde groenten</a>
+                </li>
+                <li>
+                    Dessert: 
+                    <a href="dessert.html">Pistache–frambozen roomtaart</a>
+                </li>
+                <li>
+                    Boodschappen voor het voorgerecht:
+                    <a href="boodschappen-voorgerecht.html">Inkooplijst spitskoolgerecht (inkoop-planner)</a>
+                </li>
+                <li>
+                    Boodschappen voor het dessert:
+                    <a href="boodschappen-dessert.html">Inkooplijst pistache–frambozen roomtaart (inkoop-planner)</a>
+                </li>
+            </ul>
+        </section>
 
-            <a href="voorgerecht-spitskool.html" class="menu-card">
+        <div class="menu-grid">
+            <a href="voorgerecht.html" class="menu-card">
                 <div class="menu-card-header">
-                    <div class="course">Alternatief voorgerecht</div>
+                    <div class="course">Gang 1 · Voorgerecht</div>
                     <h3>Wasabi-Spitskool</h3>
                     <div class="badge">🌱 Vegan</div>
                 </div>
                 <div class="menu-card-body">
                     <p class="description">
-                        Een modern gerecht met gestoofd spitskool, wasabi, geroosterde zonnebloempitten 
-                        en een fris citrus contrast. Gebaseerd op Redelicious principes.
+                        Fijn gesneden, kort gebakken spitskool met zachte sjalot en gember, op smaak gebracht met kerrie,
+                        sambal en een vleugje wasabi. Fris citroensap en krokant geroosterde zonnebloempitten zorgen
+                        voor een lichte, spannende start van het menu.
                     </p>
                     <div class="menu-card-meta">
-                        <span>⏱️ 20 minuten</span>
+                        <span>⏱️ Indicatie: ca. 20–30 minuten</span>
                         <span>⭐ Makkelijk</span>
                     </div>
                 </div>
                 <div class="menu-card-footer">
-                    Bekijk recept →
+                    Bekijk recept (sous-chef) →
                 </div>
             </a>
 
             <a href="hoofdgerecht.html" class="menu-card">
                 <div class="menu-card-header">
-                    <div class="course">Gang 2</div>
-                    <h3>Mahshi met Saffraan</h3>
+                    <div class="course">Gang 2 · Hoofdgerecht</div>
+                    <h3>Libanese mahshi met saffraanrijst</h3>
                     <div class="badge">🌱 Vegan</div>
                 </div>
                 <div class="menu-card-body">
                     <p class="description">
-                        Gevulde courgettes en paprika's met aromatische rijst, geserveerd met 
-                        saffraanrijst en geroosterde groenten met tahini-yoghurt saus.
+                        Gevulde courgettes en paprika’s met geurige rijst, langzaam gestoofd tot alles zacht en vol van
+                        smaak is. Geserveerd met saffraanrijst, geroosterde groenten en een romige tahini-citroensaus.
                     </p>
                     <div class="menu-card-meta">
-                        <span>⏱️ 75 minuten</span>
+                        <span>⏱️ Indicatie: ca. 60–90 minuten</span>
                         <span>⭐⭐⭐ Gevorderd</span>
                     </div>
                 </div>
                 <div class="menu-card-footer">
-                    Bekijk recept →
+                    Bekijk recept (sous-chef) →
                 </div>
             </a>
 
             <a href="dessert.html" class="menu-card">
                 <div class="menu-card-header">
-                    <div class="course">Gang 3</div>
-                    <h3>Baklava & Sorbet</h3>
+                    <div class="course">Gang 3 · Dessert</div>
+                    <h3>Pistache–frambozen roomtaart</h3>
                     <div class="badge">🥛 Vegetarisch</div>
                 </div>
                 <div class="menu-card-body">
                     <p class="description">
-                        Knapperige baklava met pistache en honing, gecombineerd met een verfrissend 
-                        sinaasappelbloesem sorbet. Perfect gebalanceerd dessert.
+                        Luchtige biscuitlagen met pistache-mascarponeroom, royaal gevuld met verse frambozen en bestrooid
+                        met gehakte pistachenoten. Een romige afsluiter met nootachtige diepte en fris rood fruit.
                     </p>
                     <div class="menu-card-meta">
-                        <span>⏱️ 50 min + koelen</span>
+                        <span>⏱️ Indicatie: ca. 45–60 minuten + koelen</span>
                         <span>⭐⭐ Gemiddeld</span>
                     </div>
                 </div>
                 <div class="menu-card-footer">
-                    Bekijk recept →
+                    Bekijk recept (sous-chef) →
                 </div>
             </a>
         </div>
