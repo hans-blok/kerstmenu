@@ -1,5 +1,8 @@
-/* Modern Recipe Stylesheet */
+/* Japans Minimalisme - Kerstmenu 2025
+ * Filosofie: Eenvoud, balans, strakke lijnen, natuurlijke kleuren, ma (leegte)
+ */
 
+/* Reset en basis */
 * {
     margin: 0;
     padding: 0;
@@ -7,219 +10,364 @@
 }
 
 body {
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: 'Noto Sans', 'Hiragino Sans', 'Yu Gothic', sans-serif;
     line-height: 1.8;
-    color: #333;
-    background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
-    padding: 20px;
+    color: #3a3a3a;
+    background: #fafaf8;
+    padding: 0;
+    font-size: 16px;
 }
 
+/* Ma (間) - bewuste leegte en ademruimte */
 .container {
-    max-width: 900px;
-    margin: 0 auto;
-    background: white;
-    border-radius: 15px;
-    box-shadow: 0 10px 40px rgba(0, 0, 0, 0.1);
-    overflow: hidden;
+    max-width: 800px;
+    margin: 60px auto;
+    background: #ffffff;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.04);
 }
 
+/* Header - rustige natuurlijke tonen */
 header {
-    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-    color: white;
-    padding: 50px 40px;
+    background: linear-gradient(to bottom, #e8e5df 0%, #d4cfc4 100%);
+    color: #3a3a3a;
+    padding: 80px 60px;
     text-align: center;
+    border-bottom: 1px solid #c9c4ba;
 }
 
 header h1 {
-    font-size: 3em;
-    margin-bottom: 15px;
+    font-size: 2.4em;
+    margin-bottom: 20px;
     font-weight: 300;
+    letter-spacing: 0.05em;
 }
 
 header .meta {
-    font-size: 1.1em;
-    opacity: 0.9;
-    margin-top: 10px;
+    font-size: 0.95em;
+    color: #6b6b6b;
+    margin-top: 15px;
+    font-weight: 300;
 }
 
+/* Navigatie - strakke lijn, subtiel */
 .back-link {
     display: inline-block;
-    margin: 20px 40px;
-    padding: 10px 20px;
-    background: #667eea;
-    color: white;
+    margin: 30px 60px;
+    padding: 12px 24px;
+    background: transparent;
+    color: #6b6b6b;
     text-decoration: none;
-    border-radius: 25px;
-    transition: background 0.3s ease;
+    border: 1px solid #d4cfc4;
+    transition: all 0.3s ease;
+    font-weight: 300;
+    letter-spacing: 0.03em;
 }
 
 .back-link:hover {
-    background: #764ba2;
+    background: #f5f3ef;
+    border-color: #a89f91;
+    color: #3a3a3a;
 }
 
+/* Content - ruime witruimte, functie boven vorm */
 .content {
-    padding: 40px;
+    padding: 60px;
 }
 
+.content section {
+    margin-bottom: 50px;
+}
+
+/* Typografie - heldere hiërarchie */
 h1, h2, h3, h4 {
-    color: #2c3e50;
-    margin-top: 30px;
-    margin-bottom: 15px;
+    color: #3a3a3a;
+    font-weight: 400;
+    letter-spacing: 0.02em;
 }
 
 h1 {
-    font-size: 2.5em;
-    border-bottom: 3px solid #667eea;
-    padding-bottom: 10px;
+    font-size: 2.2em;
+    margin-bottom: 30px;
+    padding-bottom: 15px;
+    border-bottom: 1px solid #e8e5df;
 }
 
 h2 {
-    font-size: 2em;
-    color: #667eea;
-    margin-top: 40px;
+    font-size: 1.6em;
+    margin-top: 50px;
+    margin-bottom: 25px;
+    color: #5a5a5a;
 }
 
 h3 {
-    font-size: 1.5em;
-    color: #764ba2;
+    font-size: 1.3em;
+    margin-top: 35px;
+    margin-bottom: 20px;
+    color: #6b6b6b;
 }
 
-p {
+h4 {
+    font-size: 1.1em;
+    margin-top: 25px;
     margin-bottom: 15px;
-    font-size: 1.05em;
+    color: #7a7a7a;
+}
+
+/* Tekst - luchtig en leesbaar */
+p {
+    margin-bottom: 20px;
+    font-size: 1em;
+    line-height: 1.9;
+    color: #4a4a4a;
 }
 
 strong {
-    color: #2c3e50;
-    font-weight: 600;
-}
-
-ul, ol {
-    margin-left: 30px;
-    margin-bottom: 20px;
-}
-
-li {
-    margin-bottom: 10px;
-    padding-left: 5px;
-}
-
-hr {
-    border: none;
-    border-top: 2px solid #e0e0e0;
-    margin: 40px 0;
-}
-
-table {
-    width: 100%;
-    border-collapse: collapse;
-    margin: 20px 0;
-    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.05);
-}
-
-th, td {
-    padding: 15px;
-    text-align: left;
-    border-bottom: 1px solid #e0e0e0;
-}
-
-th {
-    background: #667eea;
-    color: white;
+    color: #3a3a3a;
     font-weight: 500;
 }
 
-tr:hover {
-    background: #f8f9fa;
+/* Lijsten - minimale opmaak */
+ul, ol {
+    margin-left: 30px;
+    margin-bottom: 25px;
+}
+
+li {
+    margin-bottom: 12px;
+    padding-left: 8px;
+    line-height: 1.8;
+}
+
+/* Horizontale lijn - subtiele scheiding */
+hr {
+    border: none;
+    border-top: 1px solid #e8e5df;
+    margin: 50px 0;
+}
+
+/* Info boxen - rustige aardetinten */
+.info-box {
+    background: #f5f3ef;
+    border-left: 3px solid #a89f91;
+    padding: 25px 30px;
+    margin: 30px 0;
+}
+
+.warning-box {
+    background: #faf8f3;
+    border-left: 3px solid #c9b896;
+    padding: 25px 30px;
+    margin: 30px 0;
+}
+
+.tip-box {
+    background: #f8f7f4;
+    border-left: 3px solid #b5a88e;
+    padding: 25px 30px;
+    margin: 30px 0;
+}
+
+/* Button - functioneel, subtiel */
+.button, a.button {
+    display: inline-block;
+    padding: 14px 28px;
+    margin-top: 15px;
+    background: transparent;
+    color: #5a5a5a;
+    text-decoration: none;
+    border: 1px solid #d4cfc4;
+    transition: all 0.3s ease;
+    font-weight: 300;
+    letter-spacing: 0.03em;
+}
+
+.button:hover, a.button:hover {
+    background: #f5f3ef;
+    border-color: #a89f91;
+    color: #3a3a3a;
+}
+
+/* Secties voor index.html - consistent met content padding */
+.intro, .agent-links {
+    padding: 60px;
+}
+
+/* Specifiek voor intro achtergrond */
+.intro {
+    background: #fafaf8;
+    border-bottom: 1px solid #d4cfc4;
+}
+
+/* Agent links specifiek */
+.agent-links {
+    background: #ffffff;
+}
+
+.agent-links ul {
+    list-style: none;
+    margin-left: 0;
+}
+
+.agent-links li {
+    padding-left: 24px;
+    position: relative;
+    margin-bottom: 12px;
+}
+
+.agent-links li::before {
+    content: "→";
+    position: absolute;
+    left: 0;
+    color: #a89f91;
+    font-weight: 300;
+}
+
+.agent-links a {
+    color: #6b6b6b;
+    text-decoration: none;
+    border-bottom: 1px solid transparent;
+    transition: all 0.3s ease;
+}
+
+.agent-links a:hover {
+    color: #3a3a3a;
+    border-bottom-color: #a89f91;
+}
+
+/* Menu Grid */
+.menu-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 40px;
+    padding: 60px; /* Ruime "Ma" padding */
+    background: #fafaf8;
+}
+
+/* Menu Card */
+.menu-card {
+    background: #ffffff;
+    border: 1px solid #e8e5df;
+    display: flex;
+    flex-direction: column;
+    text-decoration: none;
+    color: inherit;
+    transition: all 0.3s ease;
+    /* Geen border-radius */
+}
+
+.menu-card:hover {
+    box-shadow: 0 6px 20px rgba(0,0,0,0.06);
+    transform: translateY(-2px);
+    border-color: #d4cfc4;
+}
+
+.menu-card-header {
+    background: #e8e5df;
+    padding: 30px;
+    border-bottom: 1px solid #e8e5df;
+}
+
+.menu-card-header .course {
+    text-transform: uppercase;
+    font-size: 0.8em;
+    letter-spacing: 0.1em;
+    color: #6b6b6b;
+    margin-bottom: 10px;
+    display: block;
+}
+
+.menu-card-header h3 {
+    margin: 0;
+    font-size: 1.4em;
+    color: #3a3a3a;
+    border: none;
+    padding: 0;
+}
+
+.menu-card-body {
+    padding: 30px;
+    flex-grow: 1;
+}
+
+.menu-card-body .description {
+    font-size: 0.95em;
+    color: #5a5a5a;
+    line-height: 1.8;
+}
+
+.menu-card-meta {
+    margin-top: 24px;
+    font-size: 0.85em;
+    color: #888;
+    display: flex;
+    gap: 15px;
+    flex-wrap: wrap;
+}
+
+.menu-card-footer {
+    padding: 20px 30px;
+    text-align: right;
+    font-size: 0.9em;
+    color: #a89f91;
+    border-top: 1px solid #f5f3ef;
+    background: #fafaf8;
 }
 
 .badge {
     display: inline-block;
-    padding: 5px 15px;
-    background: #27ae60;
-    color: white;
-    border-radius: 20px;
-    font-size: 0.9em;
-    margin: 5px 5px 5px 0;
+    padding: 4px 8px;
+    font-size: 0.75em;
+    background: #a89f91;
+    color: #fff;
+    margin-top: 12px;
 }
 
-blockquote {
-    border-left: 4px solid #667eea;
-    padding-left: 20px;
-    margin: 20px 0;
-    font-style: italic;
-    color: #555;
-    background: #f8f9fa;
-    padding: 15px 20px;
-    border-radius: 5px;
-}
-
-code {
-    background: #f4f4f4;
-    padding: 2px 8px;
-    border-radius: 3px;
-    font-family: 'Courier New', monospace;
-    color: #e74c3c;
-}
-
-.info-box {
-    background: #e3f2fd;
-    border-left: 4px solid #2196f3;
-    padding: 20px;
-    margin: 20px 0;
-    border-radius: 5px;
-}
-
-.warning-box {
-    background: #fff3cd;
-    border-left: 4px solid #ffc107;
-    padding: 20px;
-    margin: 20px 0;
-    border-radius: 5px;
-}
-
-.tip-box {
-    background: #d4edda;
-    border-left: 4px solid #28a745;
-    padding: 20px;
-    margin: 20px 0;
-    border-radius: 5px;
-}
-
+/* Footer - eenvoudig, rustig */
 footer {
-    background: #2c3e50;
-    color: white;
-    padding: 30px;
+    background: #e8e5df;
+    color: #5a5a5a;
+    padding: 40px 60px;
     text-align: center;
+    border-top: 1px solid #d4cfc4;
 }
 
 footer p {
-    opacity: 0.8;
     margin-bottom: 10px;
+    font-weight: 300;
+    font-size: 0.95em;
 }
 
+/* Responsive - behoud balans */
 @media (max-width: 768px) {
-    .content {
-        padding: 20px;
+    .container {
+        margin: 20px auto;
+    }
+
+    header {
+        padding: 50px 30px;
     }
 
     header h1 {
         font-size: 2em;
     }
 
+    .content {
+        padding: 40px 30px;
+    }
+
+    .back-link {
+        margin: 20px 30px;
+    }
+
+    footer {
+        padding: 30px;
+    }
+
     h1 {
-        font-size: 2em;
+        font-size: 1.8em;
     }
 
     h2 {
-        font-size: 1.6em;
-    }
-
-    table {
-        font-size: 0.9em;
-    }
-
-    th, td {
-        padding: 10px;
+        font-size: 1.4em;
     }
 }
