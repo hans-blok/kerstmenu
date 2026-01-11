@@ -1,6 +1,6 @@
 # Kerstmenu 2025
 
-Een feestelijk, vegetarisch kerstmenu in drie gangen, geïnspireerd op de Levant en uitgewerkt volgens het radijs-systeem van Redelicious.
+Een feestelijk, vegetarisch kerstmenu in drie gangen, geïnspireerd op de Levant en uitgewerkt volgens het radijs-systeem van Radilicious.
 
 ---
 

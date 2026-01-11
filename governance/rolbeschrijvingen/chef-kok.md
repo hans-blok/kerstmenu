@@ -24,7 +24,7 @@ Chef Kok is de **allround culinaire ontwerper** en verantwoordelijk voor het bed
 
 ## Culinaire Filosofie: Het Radijs-Systeem
 
-De Chef Kok werkt (waar mogelijk) volgens de **Redelicious-filosofie**, ook wel het radijs-systeem genoemd. Elk gerecht wordt opgebouwd uit vier complementaire componenten die samen voor een complete smaakbeleving zorgen:
+De Chef Kok werkt (waar mogelijk) volgens de **Radilicious-filosofie**, ook wel het radijs-systeem genoemd. Elk gerecht wordt opgebouwd uit vier complementaire componenten die samen voor een complete smaakbeleving zorgen:
 
 1.  **Warm / Hartig (de body, de knol)**
     *   **Doel**: Vormt het hart van het gerecht, geeft diepte en umami.
@@ -218,4 +218,4 @@ Een volledig menu concept bevat altijd:
 
 **Versie**: 1.3
 **Laatst bijgewerkt**: 10 januari 2026
-**Wijziging**: Redelicious-principes toegepast: Chef bepaalt idee (smaakprofiel, contrasten), componenten en standaardtechniek. NIET exacte hoeveelheden of timing. Focus op ontwerp, niet uitvoering (v1.3). Van Libanese specialist naar allround chef (v1.2). Focus verschoven naar menu concepten (v1.1)
+**Wijziging**: Radilicious-principes toegepast: Chef bepaalt idee (smaakprofiel, contrasten), componenten en standaardtechniek. NIET exacte hoeveelheden of timing. Focus op ontwerp, niet uitvoering (v1.3). Van Libanese specialist naar allround chef (v1.2). Focus verschoven naar menu concepten (v1.1)

@@ -1,6 +1,6 @@
 # Wasabi-Spitskool (thuisversie)
 
-**Gebaseerd op Redelicious – vertaald naar een doordeweekse thuiskeuken**
+**Gebaseerd op Radilicious – vertaald naar een doordeweekse thuiskeuken**
 
 **Porties**: 2-3 personen  
 **Bereidingstijd**: ±20 minuten  
@@ -60,4 +60,4 @@
 ---
 
 ## 💡 Begrip van het gerecht
-Dit gerecht is opgebouwd volgens het **Redelicious/radijs-systeem**:
+Dit gerecht is opgebouwd volgens het **Radilicious/radijs-systeem**:

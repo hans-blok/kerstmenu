@@ -127,9 +127,9 @@
 - **Andere kool?** Gebruik 300g witte kool of savooiekool (stoof 5 min langer)
 
 
-## 📊 Redelicious Concept
+## 📊 Radilicious Concept
 
-Dit gerecht is opgebouwd volgens het **Redelicious/radijs-systeem**:
+Dit gerecht is opgebouwd volgens het **Radilicious/radijs-systeem**:
 
 | Component | Ingrediënt | Hoeveelheid |
 |-----------|-----------|-------------|
@@ -149,4 +149,4 @@ Dit gerecht is opgebouwd volgens het **Redelicious/radijs-systeem**:
 ---
 
 **Sous-chef**: kerstmenu-2025.sous-chef  
-**Gebaseerd op**: Redelicious concept
+**Gebaseerd op**: Radilicious concept
