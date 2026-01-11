@@ -114,20 +114,6 @@ def files_identical(file1, file2):
     return file_hash(file1) == file_hash(file2)
 
 
-def backup_file(filepath, backup_dir):
-    """Maak backup van bestand"""
-    if not filepath.exists():
-        return None
-    
-    backup_dir.mkdir(parents=True, exist_ok=True)
-    timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
-    backup_name = f"{filepath.stem}_{timestamp}{filepath.suffix}"
-    backup_path = backup_dir / backup_name
-    
-    shutil.copy2(filepath, backup_path)
-    return backup_path
-
-
 def extract_workspace_name(beleid_path):
     """Extract workspace naam uit beleid.md"""
     if not beleid_path.exists():
@@ -271,10 +257,6 @@ def sync_agents(genesis_root, workspace_root, workspace_name, dry_run):
                 if dry_run:
                     print_update(f"{agent} runner (zou worden geüpdatet)")
                 else:
-                    if runner_dst.exists():
-                        backup_path = backup_file(runner_dst, backup_dir / "scripts")
-                        print_info(f"Backup: {backup_path.name}")
-                    
                     runner_dst.parent.mkdir(parents=True, exist_ok=True)
                     shutil.copy2(runner_src, runner_dst)
                     print_update(f"{agent} runner")
@@ -454,11 +436,6 @@ Let op: Script doet automatisch een git pull in Genesis repository voor laatste 
     
     # Samenvatting
     print_summary(all_updates, all_skips, args.dry_run)
-    
-    # Backups info
-    if not args.dry_run and all_updates and backup_dir.exists():
-        print()
-        print(f"💾 Backups opgeslagen in: {backup_dir}")
     
     return 0
 

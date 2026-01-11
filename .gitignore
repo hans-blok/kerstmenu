@@ -3,6 +3,9 @@
 # Tijdelijke context folder
 /temp/
 
+# Backups
+/.backups/
+
 # Editor bestanden
 .vscode/
 .idea/
@@ -22,6 +25,7 @@ __pycache__/
 *.egg-info/
 dist/
 build/
+.venv/
 
 # Notities en drafts
 *.draft.md

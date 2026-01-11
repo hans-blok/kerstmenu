@@ -189,7 +189,7 @@ In de Libanese cultuur is baklava het ultieme feestdessert. Het wordt geserveerd
 
 ## Inkoop Samenvatting
 
-Voor Inkoper: Deze ingrediënten zijn nodig:
+Voor Inkoop Planner: Deze ingrediënten zijn nodig:
 - **Koeling**: Filodeeg (450g), boter (150g) of plantaardige boter
 - **Vers**: Sinaasappels (8-10 stuks), citroen (2x), verse munt
 - **Noten**: Pistachenoten (200g), walnoten (100g)

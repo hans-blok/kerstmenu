@@ -1,13 +1,13 @@
 ---
-agent: kerstmenu-2025.chef-kok
-description: Menu samenstelling visie radilicous chef kok
+agent: kerstmenu-2025.wine-pairing-curator
+description: Wijnadvies en wijn-spijs combinaties
 ---
 
-# Chef Kok Prompt
+# Wine-pairing-curator Prompt
 
 ## Rolbeschrijving
 
-**VERPLICHT**: Lees `governance/rolbeschrijvingen/chef-kok.md` voor volledige context en verantwoordelijkheden.
+**VERPLICHT**: Lees `governance/rolbeschrijvingen/wine-pairing-curator.md` voor volledige context en verantwoordelijkheden.
 
 ## Contract
 
@@ -22,9 +22,9 @@ description: Menu samenstelling visie radilicous chef kok
 
 **Voorbeelden**:
 ```
-@github /chef-kok [voorbeeld opdracht 1]
-@github /chef-kok [voorbeeld opdracht 2]
-@github /chef-kok [voorbeeld opdracht 3] --check-only
+@github /wine-pairing-curator [voorbeeld opdracht 1]
+@github /wine-pairing-curator [voorbeeld opdracht 2]
+@github /wine-pairing-curator [voorbeeld opdracht 3] --check-only
 ```
 
 ### Output (Wat komt eruit)
@@ -96,5 +96,5 @@ Output: [TODO: verwachte output]
 
 ---
 
-**Documentatie**: Zie [governance/rolbeschrijvingen/chef-kok.md](governance/rolbeschrijvingen/chef-kok.md)  
-**Runner**: `scripts/chef-kok.py`
+**Documentatie**: Zie [governance/rolbeschrijvingen/wine-pairing-curator.md](governance/rolbeschrijvingen/wine-pairing-curator.md)  
+**Runner**: `scripts/wine-pairing-curator.py`

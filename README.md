@@ -6,7 +6,8 @@ Document repository workspace: kerstmenu-2025
 
 ```
 kerstmenu-2025/
-├── docs/                    # Documentatie
+├── docs/                    # Documentatie, inclusief recepten
+│   └── menu/                # Alle recepten voor het kerstmenu
 ├── governance/              # Governance documenten
 │   ├── gedragscode.md
 │   ├── workspace-standaard.md
@@ -38,6 +39,14 @@ Specialist in agent documentatie
 ```
 @github /rolbeschrijver agent-naam=mijn-agent doel="..." domein="..."
 ```
+
+## Menu en Recepten
+
+De uitgewerkte recepten van de sous-chef zijn te vinden in:
+
+- [docs/resultaten/sous-chef/voorgerecht-spitskool-3-pers.md](docs/resultaten/sous-chef/voorgerecht-spitskool-3-pers.md) – voorgerecht: wasabi-spitskool voor 3 personen
+- [docs/resultaten/sous-chef/hoofdgerecht-mahshi.md](docs/resultaten/sous-chef/hoofdgerecht-mahshi.md) – hoofdgerecht: mahshi met saffraanrijst (voor 6 personen)
+- [docs/resultaten/sous-chef/dessert-pistache-framboos.md](docs/resultaten/sous-chef/dessert-pistache-framboos.md) – dessert: pistache–frambozen roomtaart
 
 ## Nieuwe Agent Toevoegen
 
