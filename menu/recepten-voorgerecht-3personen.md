@@ -256,4 +256,4 @@ Dit voorgerecht bestaat uit drie gerechten die we in een slimme volgorde maken o
 
 **Status**: ✅ Compleet recept voor 3 personen  
 **Laatste update**: 10 januari 2026  
-**Sous-chef**: kerstmenu-2025.souschef
+**Sous-chef**: kerstmenu-2025.sous-chef

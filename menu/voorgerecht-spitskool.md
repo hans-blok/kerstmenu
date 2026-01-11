@@ -1,94 +1,152 @@
-# Wasabi-Spitskool (thuisversie)
+# Wasabi-Spitskool
 
-**Gebaseerd op Redelicious – vertaald naar een doordeweekse thuiskeuken**
-
-**Porties**: 2-3 personen  
-**Bereidingstijd**: ±20 minuten  
-**Apparatuur**: 1 pan
+**Voor 3 personen**  
+**Bereidingstijd**: Voorbereiding 5 min + Koken 15 min = Totaal 20 min  
+**Moeilijkheidsgraad**: ⭐ Makkelijk  
+**Apparatuur**: 1 koekenpan (voor pitten), 1 ruime pan of wok
 
 ---
 
-## Ingrediënten
+## 🧂 Ingrediënten (voor 3 personen)
 
-### 🧂 Basis
-
-- 1 kleine spitskool
-- 1 sjalot
-- 1 tl geraspte gember (vers of uit potje)
-- 1 tl curry (madras of kerrie)
+### Basis
+- 300g spitskool (circa 1 kleine spitskool)
+- 1 sjalot (circa 50g)
+- 5g verse gember (circa 1 tl geraspte gember)
+- 1 tl currypoeder (madras of kerrie)
 - 1 tl sambal
-- 1-2 tl wasabipasta (naar smaak)
-- Zout
-- Olie om te bakken
+- 1-2 tl wasabipasta (begin met 1 tl, proef en voeg toe)
+- 3 el olijfolie of zonnebloemolie
+- Zout naar smaak (circa ½ tl)
 
-### 🌰 Krokant
+### Krokant
+- 30g zonnebloempitten (circa 3 el)
 
-- 2-3 el zonnebloempitten
+### Fris
+- ½ citroen (circa 2 el sap)
 
-### 🍋 Fris
-
-- ½ citroen of een scheutje limoensap
-
-### 🥬 Groen (optioneel)
-
-- Enkele blaadjes rucola, veldsla of mosterdblad
+### Groen (optioneel)
+- 15g verse kruiden (rucola, veldsla of mosterdblad)
 
 ---
 
-## 🔪 Bereiding
+## 🔪 Mise-en-place (alles klaarzetten)
+
+**Doe dit eerst, voor je gaat koken:**
+
+1. **Spitskool**: Snijd 300g spitskool in dunne repen (circa 1cm breed)
+2. **Sjalot**: Pel en snijd 1 sjalot in dunne ringen
+3. **Gember**: Rasp 5g verse gember fijn (of gebruik 1 tl uit potje)
+4. **Kruiden**: Meet 1 tl currypoeder af, 1 tl sambal, 1 tl wasabipasta
+5. **Olie**: Meet 3 el olie af in een kommetje
+6. **Pitten**: Meet 30g zonnebloempitten af
+7. **Citroen**: Pers ½ citroen uit (circa 2 el sap)
+8. **Groen**: Was en droog eventueel 15g verse kruiden
+
+💡 **Tip**: Als alles klaarstaat, duurt het koken maar 15 minuten en hoef je niet te zoeken!
+
+---
+
+## 🍳 Bereiding (nu gaan we koken)
 
 ### Stap 1: Zonnebloempitten roosteren
 
-1. Verhit een droge koekenpan
-2. Rooster de zonnebloempitten tot ze licht kleuren
-3. Zet apart
+1. Zet een droge koekenpan op middelhoog vuur
+2. Voeg **30g zonnebloempitten** toe aan de droge pan
+3. Rooster de pitten 2-3 minuten, schud regelmatig
+4. Wanneer de pitten licht goudbruin zijn en geuren → klaar
+5. Schep de **30g geroosterde pitten** in een kommetje en zet apart
 
-### Stap 2: Spitskool bereiden
-
-1. Snijd de spitskool in fijne reepjes
-2. Verhit olie in een ruime pan
-3. Fruit sjalot en gember zachtjes
-4. Voeg curry en sambal toe en bak kort mee
-5. Voeg de spitskool toe en schep goed om
-6. Laat de kool op middelhoog vuur slinken en zacht worden
-7. Meng de wasabipasta erdoor (beetje bij beetje)
-8. Breng op smaak met zout
-
-### Stap 3: Frisheid toevoegen
-
-1. Kneep een beetje citroen- of limoensap over de spitskool
-2. Proef: het gerecht moet fris worden, niet zuur
-
-### Stap 4: Serveren
-
-1. Schep de spitskool op het bord
-2. Strooi de geroosterde zonnebloempitten erover
-3. Werk eventueel af met wat groen blad
+⏱️ **Wachttijd**: Terwijl de pitten roosteren kun je de andere ingrediënten klaar zetten
 
 ---
 
-## 💡 Begrip van het gerecht
+### Stap 2: Spitskool stoven
 
-Dit gerecht is opgebouwd volgens het **Redelicious/radijs-systeem**:
+1. Zet een ruime pan of wok op middelhoog vuur
+2. Voeg **3 el olie** toe en laat warm worden (30 seconden)
+3. Voeg **1 gesneden sjalot** toe, fruit 2 minuten tot zacht
+4. Voeg **5g geraspte gember** toe, bak 30 seconden mee (moet geuren!)
+5. Voeg **1 tl currypoeder** toe, roer door en bak 20 seconden
+6. Voeg **1 tl sambal** toe, roer door en bak 20 seconden
+7. Voeg **300g spitskool** in repen toe
+8. Schep de **300g spitskool** goed om met de kruiden
+9. Laat de kool 8-10 minuten stoven op middelhoog vuur
+10. Roer om de 2 minuten, de kool moet slinken en zacht worden
 
-| Component | Ingrediënt |
-|-----------|-----------|
-| **Warm & hartig** | Spitskool |
-| **Pittig** | Wasabi en sambal |
-| **Krokant** | Zonnebloempitten |
-| **Fris** | Citrus |
+💡 **Check**: De spitskool is klaar als hij zacht is maar nog licht bite heeft
 
-Je hoeft niet alle originele componenten te maken om het idee van het gerecht te behouden.
+---
+
+### Stap 3: Wasabi en smaak afronden
+
+1. Voeg **1 tl wasabipasta** toe aan de **300g gestoofd spitskool**
+2. Roer de wasabi goed door de kool
+3. Proef! Te mild? Voeg nog **½-1 tl wasabipasta** toe
+4. Voeg **½ tl zout** toe (of naar smaak)
+5. Knijp **2 el citroensap** (van ½ citroen) over de kool
+6. Roer goed door en proef: het moet fris zijn, niet zuur
+
+💡 **Balans**: Je moet de wasabi proeven (pittig), maar niet overweldigend
+
+---
+
+### Stap 4: Serveren
+
+1. Verdeel de **300g spitskool** over 3 borden (100g per persoon)
+2. Strooi **30g geroosterde zonnebloempitten** over de borden (10g per persoon)
+3. Leg eventueel **15g verse kruiden** bovenop als garnering
+4. Serveer direct, warm
+
+---
+
+## 💡 Chef's Tips
+
+### Van tevoren
+- ✅ **Mise-en-place**: Doe 1-2 uur van tevoren, dek af met vochtige doek
+- ✅ **Pitten roosteren**: Kan 1 dag van tevoren, bewaar luchtdicht
+- ❌ **Spitskool koken**: Niet van tevoren! Wordt slap en verliest kleur
+
+### Tijdens koken
+- **Vuur te hoog?** Spitskool verbrandt → zet op middelhoog
+- **Kool nog te hard?** Voeg 2 el water toe en stoof 3 minuten langer
+- **Te pittig?** Voeg extra citroen toe, dit verzacht de scherpte
+
+### Bewaren
+- Restjes max 2 dagen in koelkast in afgesloten bak
+- Opwarmen in pan met scheutje water (magnetron maakt het slap)
 
 ---
 
 ## 🔄 Variaties
 
-- **Geen wasabi?** Gebruik mierikswortel of grove mosterd
-- **Geen pitten?** Gebruik noten of panko
-- **Meer vulling?** Voeg witte bonen of knapperig gebakken tofu toe
+- **Geen wasabi?** Gebruik 1 el mierikswortel of 1 el grove mosterd
+- **Geen zonnebloempitten?** Gebruik 30g gehakte walnoten of 2 el panko (eerst roosteren)
+- **Meer vulling?** Voeg 150g afgespoelde witte bonen toe in stap 2
+- **Extra eiwit?** Voeg 200g knapperig gebakken tofu blokjes toe bij serveren
+- **Andere kool?** Gebruik 300g witte kool of savooiekool (stoof 5 min langer)
+
+
+## 📊 Redelicious Concept
+
+Dit gerecht is opgebouwd volgens het **Redelicious/radijs-systeem**:
+
+| Component | Ingrediënt | Hoeveelheid |
+|-----------|-----------|-------------|
+| **Warm & hartig** | Gestoofd spitskool | 300g |
+| **Pittig** | Wasabi en sambal | 1-2 tl + 1 tl |
+| **Krokant** | Geroosterde zonnebloempitten | 30g |
+| **Fris** | Citroensap | 2 el |
+
+👉 Het concept draait om contrasten: zacht/krokant, pittig/fris, warm/koud-element
 
 ---
 
-**Versie**: 1.0  
-**Laatst bijgewerkt**: 10 januari 2026
+**Versie**: 2.0  
+**Laatst bijgewerkt**: 10 januari 2026  
+**Wijziging**: Sous-chef uitwerking met exacte hoeveelheden in elke stap, mise-en-place aanpak en uitgebreide tips
+
+---
+
+**Sous-chef**: kerstmenu-2025.sous-chef  
+**Gebaseerd op**: Redelicious concept

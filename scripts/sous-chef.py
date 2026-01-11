@@ -2,13 +2,13 @@
 """
 Runner voor Sous-chef agent
 
-Zie: governance/rolbeschrijvingen/souschef.md
-Prompt: .github/prompts/souschef.prompt.md
+Zie: governance/rolbeschrijvingen/sous-chef.md
+Prompt: .github/prompts/sous-chef.prompt.md
 
 Gebruik:
-    python scripts/souschef.py "stel recepten op voor voorgerecht voor 3 personen"
-    python scripts/souschef.py "maak recept voor hoofdgerecht voor 6 personen"
-    python scripts/souschef.py "valideer recept spitskool" --check-only
+    python scripts/sous-chef.py "stel recepten op voor voorgerecht voor 3 personen"
+    python scripts/sous-chef.py "maak recept voor hoofdgerecht voor 6 personen"
+    python scripts/sous-chef.py "valideer recept spitskool" --check-only
 """
 
 import argparse
@@ -43,10 +43,10 @@ def main():
         formatter_class=argparse.RawDescriptionHelpFormatter,
         epilog="""
 Voorbeelden:
-  python scripts/souschef.py "stel recepten op voor voorgerecht voor 3 personen"
-  python scripts/souschef.py "maak recept voor hoofdgerecht voor 6 personen"
-  python scripts/souschef.py "werk spitskool recept uit met mise-en-place"
-  python scripts/souschef.py "valideer recept" --check-only
+  python scripts/sous-chef.py "stel recepten op voor voorgerecht voor 3 personen"
+  python scripts/sous-chef.py "maak recept voor hoofdgerecht voor 6 personen"
+  python scripts/sous-chef.py "werk spitskool recept uit met mise-en-place"
+  python scripts/sous-chef.py "valideer recept" --check-only
 
 De Sous-chef:
   - Werkt menu concepten van Chef Kok uit tot complete recepten
@@ -87,7 +87,7 @@ Werkprincipe:
     if not args.check_only and not args.personen and "stel" in args.opdracht.lower():
         print_error("Aantal personen is verplicht voor nieuwe recepten!")
         print_info("Gebruik: --personen 3 (of ander aantal)")
-        print_info("Voorbeeld: python scripts/souschef.py 'stel recept op' --personen 3")
+        print_info("Voorbeeld: python scripts/sous-chef.py 'stel recept op' --personen 3")
         return 1
     
     if args.personen:

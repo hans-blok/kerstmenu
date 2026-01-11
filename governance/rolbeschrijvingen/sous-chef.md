@@ -1,6 +1,6 @@
 # Rolbeschrijving: Sous-chef
 
-**Agent**: kerstmenu-2025.souschef
+**Agent**: kerstmenu-2025.sous-chef
 **Domein**: Praktische recept uitwerking en handige aanpak
 **Type**: Domein Expert
 

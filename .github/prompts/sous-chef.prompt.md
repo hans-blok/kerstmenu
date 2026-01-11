@@ -1,5 +1,5 @@
 ---
-agent: kerstmenu-2025.souschef
+agent: kerstmenu-2025.sous-chef
 description: Praktische recept uitwerking en handige aanpak
 ---
 
@@ -7,7 +7,7 @@ description: Praktische recept uitwerking en handige aanpak
 
 ## Rolbeschrijving
 
-**VERPLICHT**: Lees `governance/rolbeschrijvingen/souschef.md` voor volledige context en verantwoordelijkheden.
+**VERPLICHT**: Lees `governance/rolbeschrijvingen/sous-chef.md` voor volledige context en verantwoordelijkheden.
 
 ## Contract
 
@@ -22,9 +22,9 @@ description: Praktische recept uitwerking en handige aanpak
 
 **Voorbeelden**:
 ```
-@github /souschef [voorbeeld opdracht 1]
-@github /souschef [voorbeeld opdracht 2]
-@github /souschef [voorbeeld opdracht 3] --check-only
+@github /sous-chef [voorbeeld opdracht 1]
+@github /sous-chef [voorbeeld opdracht 2]
+@github /sous-chef [voorbeeld opdracht 3] --check-only
 ```
 
 ### Output (Wat komt eruit)
@@ -96,5 +96,5 @@ Output: [TODO: verwachte output]
 
 ---
 
-**Documentatie**: Zie [governance/rolbeschrijvingen/souschef.md](governance/rolbeschrijvingen/souschef.md)  
-**Runner**: `scripts/souschef.py`
+**Documentatie**: Zie [governance/rolbeschrijvingen/sous-chef.md](governance/rolbeschrijvingen/sous-chef.md)  
+**Runner**: `scripts/sous-chef.py`
