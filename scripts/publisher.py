@@ -79,6 +79,7 @@ def convert_to_html(input_file, output_file, standalone=True):
     cmd = [
         "pandoc",
         str(input_file),
+        "-f", "markdown+task_lists",
         "-o", str(output_file),
         "--toc",
         "--toc-depth=3"
@@ -164,7 +165,7 @@ Output:
         """
     )
     
-        parser.add_argument("files", nargs="+", help="Markdown bronbestand(en) om te publiceren")
+    parser.add_argument("files", nargs="+", help="Markdown bronbestand(en) om te publiceren")
     parser.add_argument("--output-dir", type=Path, default=Path.cwd(),
                        help="Output directory (default: huidige directory)")
     parser.add_argument("--check-only", action="store_true",

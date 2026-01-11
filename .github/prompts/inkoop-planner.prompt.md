@@ -1,5 +1,5 @@
 ---
-agent: kerstmenu-2025.inkoper
+agent: kerstmenu-2025.inkoop-planner
 description: Voedsel warenkennis en inkoop planning
 ---
 
